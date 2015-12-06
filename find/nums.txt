@@ -1,0 +1,10 @@
+
+haystack[0] = 
+haystack[1] = 
+haystack[2] = 
+haystack[3] = 
+haystack[4] = 
+haystack[5] = 
+
+Found needle in haystack!
+
